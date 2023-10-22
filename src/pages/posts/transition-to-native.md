@@ -1,7 +1,7 @@
 ---
 title: "The Transition to Native as a Web Developer"
 description: "Part 1: It's hard, ok? I'm transitioning from React to React Native, and it's not easy. I'm documenting my journey here, so stay tuned for more updates. I have some plans to build some awesome apps (if I can figure it out)..."
-pubDate: "2023-10-22 01:00"
+pubDate: "2023-10-22 23:00"
 hero: "/images/sad-react-native.jpeg"
 tags: ["react, react-native, web-development, mobile-development, javascript, typescript, native, react-native-web, react-native-dom, react-native-web-dom, react-native-web-dom"]
 layout: "../../layouts/BlogPostLayout.astro"
