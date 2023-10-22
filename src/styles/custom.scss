@@ -16,15 +16,19 @@
 }
 
 .searchResultTitle {
-  color: #fd2d78 !important;
+  color: #cd514b !important;
 }
 
 ::-moz-selection {
   color: white;
-  background: #fd2d78;
+  background: #cd514b;
 }
 
 ::selection {
   color: white;
-  background: #fd2d78;
+  background: #cd514b;
+}
+
+a:hover {
+  color: #cd514b;
 }

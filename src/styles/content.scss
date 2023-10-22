@@ -47,7 +47,7 @@
     @apply font-bold underline text-hot-pink;
 
     &:hover {
-      @apply text-black;
+      @apply text-hot-pink-light;
     }
   }
 
@@ -68,10 +68,10 @@
   }
 
   code {
-    background: #2d2d2d;
-    color: #ccc;
-    padding: 5px;
-    width: 100%;
+    background: #4c4c4c;
+    color: #000000;
+    padding: 0.25em 0.5em;
+    border-radius: 0.5em;
   }
 
   /* pre {
