@@ -2,7 +2,7 @@
 title: "Liosta - My First React Native App"
 description: "Join me on my journey where I discuss the idea behind my first ever app using react native, expo, typescript, and gluestack"
 pubDate: "2023-10-23 14:50"
-hero: "/images/social.jpg"
+hero: "/images/liosta.png"
 tags: ["react, react-native, web-development, mobile-development, javascript, typescript, native, react-native-web, react-native-dom, react-native-web-dom, react-native-web-dom"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
