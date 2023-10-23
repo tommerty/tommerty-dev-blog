@@ -38,4 +38,4 @@ I eventually want to bring in some cloud integration so I can add more features 
 I'm delighted with the outcome of my app and genuinely eager to explore the future of app development. The journey ahead is filled with promise and potential, and I can't wait to see where my skills take me.
 The possibilities in the world of app development are limitless, and I'm excited to embark on this creative journey.
 
-If you want to take a look at the app, feel free to check it out on [GitHub](https://github.com/tommertom/liosta)
+If you want to take a look at the app, feel free to check it out on [GitHub](https://github.com/tommerty/liosta)
